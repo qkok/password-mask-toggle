@@ -1,4 +1,4 @@
-# password-mask-toggle-ng
+# password-mask-toggle
 
 A custom password input component that can toggle between a password mask and plain text
 
